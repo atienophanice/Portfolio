@@ -1,12 +1,11 @@
-
+*{
+    box-sizing: border-box;
+}
 body{
-    background-image:url("https://bit.ly/2s5jaw3");
-    background-repeat: no-repeat;
-    background-size: cover;
-    color:black;
-    background-attachment: fixed;
-    text-align:center;
-    font-size: 30px
+    background-color:lightcyan;
+    text-align: center;
+    font-size: 40px;
+   
     
 }
 img{
@@ -20,6 +19,7 @@ nav ul li{
 }
 nav ul{
     text-align: center;
+    overflow: hidden;
 }
 nav{
     padding-top:4px;
@@ -63,6 +63,21 @@ h1{
      padding:2px;
 
  }
+ .proj{
+     display:flex;
+     flex-direction: row;
+     padding-left: 380px;
+     text-align: center;
+     
+     
+ }
+ #proj p {
+     padding: 40px;
+ }
  
+
  
+    
+    
+   
  
