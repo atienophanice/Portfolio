@@ -14,7 +14,7 @@ atienophanice12gmail.com
 Tel:0795622273
 
 ### License
-*MIT License
+Licenced under the [MIT licence](licence)
 
 Copyright (c)2019 owino Phanice A
 
